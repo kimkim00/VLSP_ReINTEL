@@ -13,4 +13,6 @@ PhoBERT fine tuning base on this project: https://github.com/suicao/PhoBert-Sent
 
 bert4news fine tuning base on this project: https://github.com/bino282/bert4news
 
+follow several line of .ipynb file to get requirement library and file 
+
 recommended using google colab and enable gpu to re-run this code.
