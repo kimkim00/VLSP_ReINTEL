@@ -10,5 +10,7 @@ The model scored 0.9452 on the public leaderboard
 
 ## Note
 PhoBERT fine tuning base on this project: https://github.com/suicao/PhoBert-Sentiment-Classification
+
 bert4news fine tuning base on this project: https://github.com/bino282/bert4news
+
 recommended using google colab and enable gpu to re-run this code.
