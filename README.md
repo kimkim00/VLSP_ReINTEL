@@ -1,7 +1,8 @@
 # ReINTEL Challenge 2020: Exploiting Transfer Learning Models for Reliable Intelligence Identification on Vietnamese Social Network Sites
 This repo contains the code  of the following paper:
 
-[link text itself] Kim Nguyen Thi Thanh, Kiet Nguyen Van
+[link text itself] 
+Kim Nguyen Thi Thanh, Kiet Nguyen Van
 
 In this paper, we propose a span-based extract-then-classify framework for the open-domain targeted sentiment analysis task, which is shown as below:Reliable news classification using transfer learning
 
