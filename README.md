@@ -1,7 +1,7 @@
 # ReINTEL Challenge 2020: Exploiting Transfer Learning Models for Reliable Intelligence Identification on Vietnamese Social Network Sites
 This repo contains the code  of the following paper:
 
-[link text itself] 
+[ReINTEL Challenge 2020: Exploiting Transfer Learning Models for Reliable Intelligence Identification on Vietnamese Social Network Sites](https://aclanthology.org/2020.vlsp-1.9/)
 Kim Nguyen Thi Thanh, Kiet Nguyen Van
 
 In this paper, we propose a span-based extract-then-classify framework for the open-domain targeted sentiment analysis task, which is shown as below:Reliable news classification using transfer learning
@@ -19,4 +19,4 @@ bert4news fine tuning base on this project: https://github.com/bino282/bert4news
 follow several line of .ipynb file to get requirement library and file 
 
 recommended using google colab and enable gpu to re-run this code.
-[link text itself]: https://aclanthology.org/2020.vlsp-1.9/
+
